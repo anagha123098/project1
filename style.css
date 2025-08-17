@@ -1,0 +1,18 @@
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 20px;
+    background-color: #333;
+    display: flex;
+    gap: 20px;
+}
+
+ul.navbar li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul.navbar li a:hover {
+    color: #ff9900;
+}
